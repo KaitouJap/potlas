@@ -1,0 +1,15 @@
+#app{
+  width: 50%;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.p{
+  overflow: hidden;
+}
